@@ -1,1 +1,1 @@
-"Updated the new file" 
+"Resolved content combining main and New_branch" 
